@@ -5,7 +5,7 @@
 
 루비페이퍼에서 출간한 [깡샘의 안드로이드 프로그래밍] 책을 위한 자료 공유
 
-![enter image description here](https://raw.githubusercontent.com/kkangseongyun/kkangs_android/master/01.jpg)
+![enter image description here](https://github.com/kkangseongyun/kkangs_android_2019/blob/master/01.jpg)
 
 
 - **AndroidLab** : 책에 담긴 Step by Step 실습 및 도전과제 전체 코드
